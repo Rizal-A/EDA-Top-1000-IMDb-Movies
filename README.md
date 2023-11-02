@@ -1,4 +1,4 @@
-# EDA and Deep Dive Analysis Top 1000 IMDb Movies
+# Exploratory Data Analysis (EDA) and Deep Dive Analysis Top 1000 IMDb Movies
 
 ![IMDB TOP 1000](https://github.com/Rizal-A/EDA-Top-1000-IMDb-Movies/assets/117552819/47f3af59-3ed6-4c47-a4f1-f02f25086be8)
 
