@@ -21,7 +21,7 @@ This dataset contains information about top 1000 IMDB movies, including their ti
 - Grossed in $: The gross earnings in dollars (if available).
 - Plot: A brief summary or plot description of the movie.
 
-**The things done on this dataset are**
+# The things done on this dataset are
 - Preparation Data
 - Data Cleaning (Missing Values, Duplicated Check)
 - Data Understanding
@@ -31,7 +31,7 @@ This dataset contains information about top 1000 IMDB movies, including their ti
   - Multivariate Analysis
 - EDA Conclusion
 
-**Here the results:** 
+# Here the results: 
 1. There are missing values in the dataset, in the columns Metascore and Certificate by a total of 158 or 15.8% and no Duplicate Data
 2. In the Genre column there are several values and in 1 movie there are multiple genres
 3. There are special character strings and multiple value in Stars column, so here we separate them into a list so that we can see in which Stars the movie appears the most
